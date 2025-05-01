@@ -89,7 +89,7 @@
     "vue-runtime-helpers": "^1.1.2",
     "vue-template-compiler": "^2.6.12",
     "vue-template-es2015-compiler": "^1.9.1",
-    "wait-on": "^5.2.1",
+    "wait-on": "^8.0.3",
     "watch": "^1.0.2"
   },
   "dependencies": {
